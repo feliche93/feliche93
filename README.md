@@ -1,6 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/feliche93?logo=github&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/FelixVemmer?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
-![Linkedin](https://img.shields.io/reddit/user-karma/combined/nahuak?logo=reddit&style=for-the-badge)
 ![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 
 ### Hi there I'm Felix 👋
