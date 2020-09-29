@@ -17,6 +17,16 @@
 <br />
 <br />
 
+I am a self-taught programmer, working at N26 as a Data Analyst. I am mostly interested in Data Science and would like to create eventually my own SaaS AI business.
+
+### Languages and Tools:
+
+<code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
+
 <!--
 **feliche93/feliche93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
