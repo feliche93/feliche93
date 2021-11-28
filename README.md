@@ -17,7 +17,7 @@
 <br />
 <br />
 
-I am a self-taught programmer, working at N26 as a Data Analyst. I am mostly interested in Data Science and would like to create eventually my own SaaS AI business.
+I am a self-taught programmer, working at Priceloop AI as a Data Engineer. I am mostly interested in Data topics and currently on the way to become a fullstack Web 3.0 Developer.
 
 ### Languages and Tools:
 
