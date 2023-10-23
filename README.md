@@ -1,10 +1,6 @@
-![Felix Vemmer](https://www.felixvemmer.com/_next/image?url=%2Flogos%2Ffelix-vemmer.png&w=128&q=75)
+Hi there,
 
-## Hi there 👋, I'm Felix Vemmer
-
-I'm a Full-Stack Developer from Berlin, offering practical insights on Python, TypeScript, and full-stack technologies on my blog [felixvemmer.com](https://www.felixvemmer.com).
-
-With a background in International Management and a self-taught programming journey, I bridge the gap between business and tech.
+I'm Felix 👋 a Full-Stack Developer from Berlin. Check out my blog [felixvemmer.com](https://www.felixvemmer.com) for practical insights on Python, TypeScript, and full-stack technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -13,12 +9,16 @@ With a background in International Management and a self-taught programming jour
 - **Data & AI**: Pandas, DBT, Great Expectations
 - **Business & Marketing**: SEO, SEA, Agile Sprints
 
-Feel free to reach out on:
-
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/felixvemmer) LinkedIn
-- [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/felixvemmer) Twitter
-- [![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://felixvemmer.com) Portfolio
-
 ## 🛠 Freelancing Services
 
+Having both a business and deep technical understanding allows me to easily communicate complex technical ideas with business stakeholders.
+
 I offer freelancing services. Book a [30-minute Google Hangout chat](https://cal.com/felix-vemmer/30-minute-google-hangout-chat) to discuss your project needs.
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/felixvemmer"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://twitter.com/felixvemmer"><img src="https://img.icons8.com/color/32/000000/twitter.png" alt="twitter"/></a>
+<a href="https://felixvemmer.com"><img src="https://img.icons8.com/color/32/000000/domain.png" alt="portfolio"/></a>
+</p>
