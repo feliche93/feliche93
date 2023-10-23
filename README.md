@@ -1,43 +1,24 @@
-![GitHub followers](https://img.shields.io/github/followers/feliche93?logo=github&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/FelixVemmer?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
-![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
+![Felix Vemmer](https://www.felixvemmer.com/_next/image?url=%2Flogos%2Ffelix-vemmer.png&w=128&q=75)
 
-### Hi there I'm Felix 👋
+## Hi there 👋, I'm Felix Vemmer
 
-<a href="https://twitter.com/FelixVemmer">
-  <img align="left" alt="Felix's Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/felix-vemmer/">
-  <img align="left" alt="Felix's LinkedIn" width="21px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://medium.com/@felix.vemmer">
-  <img align="left" alt="Felix's Medium" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-</a>
+I'm a Full-Stack Developer from Berlin, offering practical insights on Python, TypeScript, and full-stack technologies on my blog [felixvemmer.com](https://www.felixvemmer.com).
 
-<br />
-<br />
+With a background in International Management and a self-taught programming journey, I bridge the gap between business and tech.
 
-I am a self-taught programmer, working at Priceloop AI as a Data Engineer. I am mostly interested in Data topics and currently on the way to become a fullstack Web 3.0 Developer.
+## 🔧 Technologies & Tools
 
-### Languages and Tools:
+- **Frontend**: JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Backend & Databases**: Python, SQL, FastAPI, Postgres
+- **Data & AI**: Pandas, DBT, Great Expectations
+- **Business & Marketing**: SEO, SEA, Agile Sprints
 
-<code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
+Feel free to reach out on:
 
-<!--
-**feliche93/feliche93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/felixvemmer) LinkedIn
+- [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/felixvemmer) Twitter
+- [![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://felixvemmer.com) Portfolio
 
-Here are some ideas to get you started:
+## 🛠 Freelancing Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I offer freelancing services. Book a [30-minute Google Hangout chat](https://cal.com/felix-vemmer/30-minute-google-hangout-chat) to discuss your project needs.
